@@ -8,7 +8,7 @@ transaction request library for zarinpal
 
 ## usage
 ### installation
-``composer require zarinpal/zarinpal``
+``composer require reloadlife/zarinpal``
 
 ### request
 ```php
