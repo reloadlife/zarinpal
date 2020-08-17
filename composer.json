@@ -6,6 +6,10 @@
         {
             "name": "hooman naghiee",
             "email": "hooman@zarinpal.com"
+        },
+        {
+            "name": "Mohammad Mahdi Afshar",
+            "email": "me@reloadlife.me"
         }
     ],
     "minimum-stability": "stable",
